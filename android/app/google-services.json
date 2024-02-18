@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "821297909674",
+    "project_id": "java-profi",
+    "storage_bucket": "java-profi.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:821297909674:android:a5fdfa908bee5df00b65d3",
+        "android_client_info": {
+          "package_name": "com.msdtech.javaprofi"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDMKG1ygAZ3IFhBCBP578bZYbwMHllo9LI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
